@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace _10_arrays
+namespace Array_Methods
 {
     class Program
     {

@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace _11_arrayIlk
+namespace Array_loopk
 {
     class Program
     {

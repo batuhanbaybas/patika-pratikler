@@ -1,0 +1,15 @@
+C:\Users\batuhan\Desktop\projeler\patika-pratikler\RekursifAndExtensionMethods\RekursifAndExtensionMethods\bin\Debug\net6.0\RekursifAndExtensionMethods.exe
+C:\Users\batuhan\Desktop\projeler\patika-pratikler\RekursifAndExtensionMethods\RekursifAndExtensionMethods\bin\Debug\net6.0\RekursifAndExtensionMethods.deps.json
+C:\Users\batuhan\Desktop\projeler\patika-pratikler\RekursifAndExtensionMethods\RekursifAndExtensionMethods\bin\Debug\net6.0\RekursifAndExtensionMethods.runtimeconfig.json
+C:\Users\batuhan\Desktop\projeler\patika-pratikler\RekursifAndExtensionMethods\RekursifAndExtensionMethods\bin\Debug\net6.0\RekursifAndExtensionMethods.dll
+C:\Users\batuhan\Desktop\projeler\patika-pratikler\RekursifAndExtensionMethods\RekursifAndExtensionMethods\bin\Debug\net6.0\RekursifAndExtensionMethods.pdb
+C:\Users\batuhan\Desktop\projeler\patika-pratikler\RekursifAndExtensionMethods\RekursifAndExtensionMethods\obj\Debug\net6.0\RekursifAndExtensionMethods.csproj.AssemblyReference.cache
+C:\Users\batuhan\Desktop\projeler\patika-pratikler\RekursifAndExtensionMethods\RekursifAndExtensionMethods\obj\Debug\net6.0\RekursifAndExtensionMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\batuhan\Desktop\projeler\patika-pratikler\RekursifAndExtensionMethods\RekursifAndExtensionMethods\obj\Debug\net6.0\RekursifAndExtensionMethods.AssemblyInfoInputs.cache
+C:\Users\batuhan\Desktop\projeler\patika-pratikler\RekursifAndExtensionMethods\RekursifAndExtensionMethods\obj\Debug\net6.0\RekursifAndExtensionMethods.AssemblyInfo.cs
+C:\Users\batuhan\Desktop\projeler\patika-pratikler\RekursifAndExtensionMethods\RekursifAndExtensionMethods\obj\Debug\net6.0\RekursifAndExtensionMethods.csproj.CoreCompileInputs.cache
+C:\Users\batuhan\Desktop\projeler\patika-pratikler\RekursifAndExtensionMethods\RekursifAndExtensionMethods\obj\Debug\net6.0\RekursifAndExtensionMethods.dll
+C:\Users\batuhan\Desktop\projeler\patika-pratikler\RekursifAndExtensionMethods\RekursifAndExtensionMethods\obj\Debug\net6.0\refint\RekursifAndExtensionMethods.dll
+C:\Users\batuhan\Desktop\projeler\patika-pratikler\RekursifAndExtensionMethods\RekursifAndExtensionMethods\obj\Debug\net6.0\RekursifAndExtensionMethods.pdb
+C:\Users\batuhan\Desktop\projeler\patika-pratikler\RekursifAndExtensionMethods\RekursifAndExtensionMethods\obj\Debug\net6.0\RekursifAndExtensionMethods.genruntimeconfig.cache
+C:\Users\batuhan\Desktop\projeler\patika-pratikler\RekursifAndExtensionMethods\RekursifAndExtensionMethods\obj\Debug\net6.0\ref\RekursifAndExtensionMethods.dll

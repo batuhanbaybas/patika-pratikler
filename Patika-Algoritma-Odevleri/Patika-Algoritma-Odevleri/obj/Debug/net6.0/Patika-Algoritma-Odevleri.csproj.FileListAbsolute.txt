@@ -1,0 +1,15 @@
+C:\Users\batuhan\Desktop\projeler\patika-pratikler\Patika-Algoritma-Odevleri\Patika-Algoritma-Odevleri\bin\Debug\net6.0\Patika-Algoritma-Odevleri.exe
+C:\Users\batuhan\Desktop\projeler\patika-pratikler\Patika-Algoritma-Odevleri\Patika-Algoritma-Odevleri\bin\Debug\net6.0\Patika-Algoritma-Odevleri.deps.json
+C:\Users\batuhan\Desktop\projeler\patika-pratikler\Patika-Algoritma-Odevleri\Patika-Algoritma-Odevleri\bin\Debug\net6.0\Patika-Algoritma-Odevleri.runtimeconfig.json
+C:\Users\batuhan\Desktop\projeler\patika-pratikler\Patika-Algoritma-Odevleri\Patika-Algoritma-Odevleri\bin\Debug\net6.0\Patika-Algoritma-Odevleri.dll
+C:\Users\batuhan\Desktop\projeler\patika-pratikler\Patika-Algoritma-Odevleri\Patika-Algoritma-Odevleri\bin\Debug\net6.0\Patika-Algoritma-Odevleri.pdb
+C:\Users\batuhan\Desktop\projeler\patika-pratikler\Patika-Algoritma-Odevleri\Patika-Algoritma-Odevleri\obj\Debug\net6.0\Patika-Algoritma-Odevleri.csproj.AssemblyReference.cache
+C:\Users\batuhan\Desktop\projeler\patika-pratikler\Patika-Algoritma-Odevleri\Patika-Algoritma-Odevleri\obj\Debug\net6.0\Patika-Algoritma-Odevleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\batuhan\Desktop\projeler\patika-pratikler\Patika-Algoritma-Odevleri\Patika-Algoritma-Odevleri\obj\Debug\net6.0\Patika-Algoritma-Odevleri.AssemblyInfoInputs.cache
+C:\Users\batuhan\Desktop\projeler\patika-pratikler\Patika-Algoritma-Odevleri\Patika-Algoritma-Odevleri\obj\Debug\net6.0\Patika-Algoritma-Odevleri.AssemblyInfo.cs
+C:\Users\batuhan\Desktop\projeler\patika-pratikler\Patika-Algoritma-Odevleri\Patika-Algoritma-Odevleri\obj\Debug\net6.0\Patika-Algoritma-Odevleri.csproj.CoreCompileInputs.cache
+C:\Users\batuhan\Desktop\projeler\patika-pratikler\Patika-Algoritma-Odevleri\Patika-Algoritma-Odevleri\obj\Debug\net6.0\Patika-Algoritma-Odevleri.dll
+C:\Users\batuhan\Desktop\projeler\patika-pratikler\Patika-Algoritma-Odevleri\Patika-Algoritma-Odevleri\obj\Debug\net6.0\refint\Patika-Algoritma-Odevleri.dll
+C:\Users\batuhan\Desktop\projeler\patika-pratikler\Patika-Algoritma-Odevleri\Patika-Algoritma-Odevleri\obj\Debug\net6.0\Patika-Algoritma-Odevleri.pdb
+C:\Users\batuhan\Desktop\projeler\patika-pratikler\Patika-Algoritma-Odevleri\Patika-Algoritma-Odevleri\obj\Debug\net6.0\Patika-Algoritma-Odevleri.genruntimeconfig.cache
+C:\Users\batuhan\Desktop\projeler\patika-pratikler\Patika-Algoritma-Odevleri\Patika-Algoritma-Odevleri\obj\Debug\net6.0\ref\Patika-Algoritma-Odevleri.dll
